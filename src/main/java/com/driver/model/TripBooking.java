@@ -2,8 +2,8 @@ package com.driver.model;
 
 import javax.persistence.*;
 
-@Entity
-@Table
+//@Entity
+//@Table
 public class TripBooking {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
